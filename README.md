@@ -1,0 +1,2 @@
+# intelligent_housekeepinger_system
+ 本项目是一套基于QT实现的智能管家系统客户端，搭配服务器代码一起，能实现语音识别，声音控制开关灯光电视等功能。
